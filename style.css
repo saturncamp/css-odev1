@@ -1,0 +1,16 @@
+h2{
+    color: rgb(163, 7, 7);
+}
+h3{
+    color: rgb(112, 25, 193);
+}
+h4{
+    color: rgb(204, 184, 29);
+}
+header{
+    text-align: center;
+}
+.center{
+    text-align: center;
+    list-style-position:inside;
+}
